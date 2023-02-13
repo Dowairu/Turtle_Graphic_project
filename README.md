@@ -20,6 +20,7 @@ I thought about extracting my other functions, for loading images, loading the U
 Below is a flowchart showing my program structure.
 
 flowchart image
+![This is an image](../images/Program_flow.png)
 
 # IMPLEMENTATION
 Before I got down to programming, I did a little bit of planning. I created a rough mind map of what I thought the structure of the program would look like as well as the most important functions that I would need. The final program ended up looking a little different as I added or removed elements that I may have initially thought were important or needed.
@@ -92,3 +93,6 @@ Krawczyk, R. J. (n.d.). SPIROLATERALS, COMPLEXITY FROM SIMPLICITY. Illinois Inst
 Labs, G. (2015). SDL2 Tutorials. Retrieved December 20, 2020, from https://gigi.nullneuron.net/gigilabs/writing/sdl2- tutorials/
 SDL. (n.d.). SDL 2.0 API by Category. Retrieved Dcember 16, 2020, from https://wiki.libsdl.org/APIByCategory
 TalesM. (2014). SDL2 C++ Taking a screenshot. stackoverflow. Retrieved January 17, 2021, from https://stackoverflow.com/questions/22315980/sdl2-c-taking-a-screenshot/22339011#22339011
+
+
+#User Manual
