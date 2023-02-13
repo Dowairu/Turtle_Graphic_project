@@ -128,4 +128,56 @@ SDL. (n.d.). SDL 2.0 API by Category. Retrieved Dcember 16, 2020, from https://w
 TalesM. (2014). SDL2 C++ Taking a screenshot. stackoverflow. Retrieved January 17, 2021, from https://stackoverflow.com/questions/22315980/sdl2-c-taking-a-screenshot/22339011#22339011
 
 
-#User Manual
+# Turtle Graphics Program User Manual
+I. open a terminal and cd to the folder where turtleprog.exe is located and run the program by typing ./turtleprog.exe
+terminal image and manulaui1
+
+II.
+Before drawing all drawing, parameters must be setup the defaults are as follows.
+Angle = 0
+Line length = 20px
+No. of lines = 1
+No. of loops = 1
+Drawing colour = black
+Background colour = white
+
+User can use the following buttons on the keyboard to change these parameters.
+- Angle can be changed by using the A and D keys
+- Line length can be changed by using the W and S keys
+- No. of lines can be changed by using the E key. (cycles through options 1 to 10)
+- No. of loops can be changed by using the Q key (cycles through options 1 to 5)
+- Drawing colour can be changed by using the C key (cycles through 11 colours)
+- Background colour can be changed using the B key (Note this clears the screen with your currently selected colour and resets the turtle so ensure you set your Background colour before you begin drawing).
+
+III. there are a few menus in this program.
+a. Save menu.
+    - Option 1: Save as PNG
+    - Option2: Save as JPG
+    - Option3: Save as BMP
+b. Example project menu
+    i. Option 1: Spiro lateral 1
+        - Draws the following Spiro lateral after the following settings have been provided.
+        - Angle = 90
+        - No. of lines = 7
+        - No. of loops = 4
+    ii. Option2: Spiro lateral 2
+        - Draws the following Spiro lateral after the following settings have been provided.
+        - Angle = 120
+        - No. of lines = 8
+        - No. of loops = 3
+    iii. Option3 Spiro lateral 3
+        - Draws the following Spiro lateral after the following settings have been provided.
+        - Angle = 144(cannot be changed)
+        - No. of lines = 7
+        - No. of loops = 4
+    iv. Option4 Spiro lateral 4
+        - Draws the following Spiro lateral after the following
+        - settings have been provided.
+        - Angle = 72(cannot be changed)
+        - No. of lines = 7
+        - No. of loops = 4
+c. Help Menu
+Image
+    - Access the help menu by using the TAB key. This menu just displays some extra information about controls and reminds the user set drawing parameters before continuing.
+IV. Execute commands.
+    - This button is used to execute any explicitly called commands that the User places in the SDLK_RETURN event in Turtleprog.c (line 259). Press the return key to execute these commands (Its empty by default). This way the user can draw what ever they want using the basic turtle commands provided.
