@@ -135,7 +135,7 @@ TalesM. (2014). SDL2 C++ Taking a screenshot. stackoverflow. Retrieved January 1
   src="images/Terminal.png"
   alt="Terminal"
   title="Terminal"
-  style="display: inline-block; margin: 0 auto; max-width: 100px" width=48% height=48% />
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=38% height=38% />
 <img
   src="images/ManualUI1.png"
 alt="ManualUI1"
