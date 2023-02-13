@@ -183,8 +183,7 @@ width=50% height=50% />
 <img
 src="images/spiro1.png"
 alt="spiro1"
-title="spiro1"
-width=50% height=50% />
+title="spiro1"/>
         2. Option2: Spiro lateral 2
             - Draws the following Spiro lateral after the following settings have been provided.
             - Angle = 120
@@ -193,8 +192,7 @@ width=50% height=50% />
 <img
 src="images/spiro2.png"
 alt="spiro2"
-title="spiro2"
-width=50% height=50% />
+title="spiro2"/>
         3. Option3 Spiro lateral 3
             - Draws the following Spiro lateral after the following settings have been provided.
             - Angle = 144(cannot be changed)
@@ -203,8 +201,7 @@ width=50% height=50% />
 <img
 src="images/spiro3.png"
 alt="spiro3"
-title="spiro3"
-width=50% height=50% />
+title="spiro3"/>
         4. Option4 Spiro lateral 4
             - Draws the following Spiro lateral after the following
             - settings have been provided.
@@ -214,14 +211,12 @@ width=50% height=50% />
 <img
 src="images/spiro4.png"
 alt="spiro4"
-title="spiro4"
-width=50% height=50% />
+title="spiro4"/>
     3. Help Menu Image
         - Access the help menu by using the TAB key. This menu just displays some extra information about controls and reminds the user set drawing parameters before continuing.
 <img
 src="images/ManualUI4.png"
 alt="ManualUI4"
-title="ManualUI4"
-width=50% height=50% />
+title="ManualUI4"/>
 4. Execute commands.
     - This button is used to execute any explicitly called commands that the User places in the SDLK_RETURN event in Turtleprog.c (line 259). Press the return key to execute these commands (Its empty by default). This way the user can draw what ever they want using the basic turtle commands provided.
