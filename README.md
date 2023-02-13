@@ -113,7 +113,7 @@ Pictures of successful drawings
   style="display: inline-block; margin: 0 auto; max-width: 100px" width=48% height=48% />
 <img
   src="images/drawing4.png"
-  alt="drawing4"
+alt="drawing4"
   title="drawing4"
   style="display: inline-block; margin: 0 auto; max-width: 100px" width=48% height=48% />
 </p>
@@ -129,8 +129,19 @@ TalesM. (2014). SDL2 C++ Taking a screenshot. stackoverflow. Retrieved January 1
 
 
 # Turtle Graphics Program User Manual
-1. open a terminal and cd to the folder where turtleprog.exe is located and run the program by typing ./turtleprog.exe
-terminal image and manulaui1
+1. Open a terminal and cd to the folder where turtleprog.exe is located and run the program by typing ./turtleprog.exe
+<p float="left">
+<img
+  src="images/Terminal.png"
+  alt="Terminal"
+  title="Terminal"
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=48% height=48% />
+<img
+  src="images/ManualUI1.png"
+alt="ManualUI1"
+  title="ManualUI1"
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=48% height=48% />
+</p>
 
 2. Before drawing all drawing, parameters must be setup the defaults are as follows.
 - Angle = 0
