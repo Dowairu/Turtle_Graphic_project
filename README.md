@@ -172,8 +172,7 @@ width=50% height=50% />
 <img
 src="images/ManualUI3.png"
 alt="ManualUI3"
-title="ManualUI3"
-width=50% height=50% />
+title="ManualUI3"/>
     2. Example project menu
         1. Option 1: Spiro lateral 1
             - Draws the following Spiro lateral after the following settings have been provided.
