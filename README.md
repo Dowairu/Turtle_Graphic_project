@@ -98,12 +98,12 @@ Pictures of successful drawings
   src="images/drawing1.png"
   alt="drawing1"
   title="drawing1"
-  style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50%>
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
 <img
   src="images/drawing2.png"
   alt="drawing2"
   title="drawing2"
-  style="display: inline-block; margin: 0 auto; max-width: 100px"width=50% height=50%>
+  style="display: inline-block; margin: 0 auto; max-width: 100px"width=50% height=50% />
 </p>
 
 <img
