@@ -20,7 +20,11 @@ I thought about extracting my other functions, for loading images, loading the U
 Below is a flowchart showing my program structure.
 
 flowchart image
-![This is an image](../images/Program_flow.png)
+<img
+  src="images/Program_flow.png"
+  alt="Program Flow"
+  title="Program Flow"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 # IMPLEMENTATION
 Before I got down to programming, I did a little bit of planning. I created a rough mind map of what I thought the structure of the program would look like as well as the most important functions that I would need. The final program ended up looking a little different as I added or removed elements that I may have initially thought were important or needed.
