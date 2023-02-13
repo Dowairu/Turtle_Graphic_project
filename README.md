@@ -154,22 +154,22 @@ User can use the following buttons on the keyboard to change these parameters.
         - Option2: Save as JPG
         - Option3: Save as BMP
     2. Example project menu
-        i. Option 1: Spiro lateral 1
+        1. Option 1: Spiro lateral 1
             - Draws the following Spiro lateral after the following settings have been provided.
             - Angle = 90
             - No. of lines = 7
             - No. of loops = 4
-        ii. Option2: Spiro lateral 2
+        2. Option2: Spiro lateral 2
             - Draws the following Spiro lateral after the following settings have been provided.
             - Angle = 120
             - No. of lines = 8
             - No. of loops = 3
-        iii. Option3 Spiro lateral 3
+        3. Option3 Spiro lateral 3
             - Draws the following Spiro lateral after the following settings have been provided.
             - Angle = 144(cannot be changed)
             - No. of lines = 7
             - No. of loops = 4
-        iv. Option4 Spiro lateral 4
+        4. Option4 Spiro lateral 4
             - Draws the following Spiro lateral after the following
             - settings have been provided.
             - Angle = 72(cannot be changed)
