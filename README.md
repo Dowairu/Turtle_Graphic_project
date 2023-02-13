@@ -135,12 +135,12 @@ TalesM. (2014). SDL2 C++ Taking a screenshot. stackoverflow. Retrieved January 1
   src="images/Terminal.png"
   alt="Terminal"
   title="Terminal"
-  style="display: inline-block; margin: 0 auto; max-width: 100px" width=38% height=38% />
+  width=38% height=38% />
 <img
   src="images/ManualUI1.png"
 alt="ManualUI1"
   title="ManualUI1"
-  style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+  width=50% height=50% />
 </p>
 
 2. Before drawing all drawing, parameters must be setup the defaults are as follows.
@@ -160,9 +160,9 @@ User can use the following buttons on the keyboard to change these parameters.
 - Background colour can be changed using the B key (Note this clears the screen with your currently selected colour and resets the turtle so ensure you set your Background colour before you begin drawing).
 <img
   src="images/ManualUI2.png"
-alt="ManualUI3"
-title="ManualUI3"
-style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+alt="ManualUI2"
+title="ManualUI2"
+width=50% height=50% />
 
 3. there are a few menus in this program.
     1. Save menu.
@@ -173,7 +173,7 @@ style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height
 src="images/ManualUI3.png"
 alt="ManualUI3"
 title="ManualUI3"
-style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+width=50% height=50% />
     2. Example project menu
         1. Option 1: Spiro lateral 1
             - Draws the following Spiro lateral after the following settings have been provided.
@@ -184,7 +184,7 @@ style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height
 src="images/spiro1.png"
 alt="spiro1"
 title="spiro1"
-style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+width=50% height=50% />
         2. Option2: Spiro lateral 2
             - Draws the following Spiro lateral after the following settings have been provided.
             - Angle = 120
@@ -194,7 +194,7 @@ style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height
 src="images/spiro2.png"
 alt="spiro2"
 title="spiro2"
-style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+width=50% height=50% />
         3. Option3 Spiro lateral 3
             - Draws the following Spiro lateral after the following settings have been provided.
             - Angle = 144(cannot be changed)
@@ -204,7 +204,7 @@ style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height
 src="images/spiro3.png"
 alt="spiro3"
 title="spiro3"
-style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+width=50% height=50% />
         4. Option4 Spiro lateral 4
             - Draws the following Spiro lateral after the following
             - settings have been provided.
@@ -215,13 +215,13 @@ style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height
 src="images/spiro4.png"
 alt="spiro4"
 title="spiro4"
-style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+width=50% height=50% />
     3. Help Menu Image
         - Access the help menu by using the TAB key. This menu just displays some extra information about controls and reminds the user set drawing parameters before continuing.
 <img
 src="images/ManualUI4.png"
 alt="ManualUI4"
 title="ManualUI4"
-style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+width=50% height=50% />
 4. Execute commands.
     - This button is used to execute any explicitly called commands that the User places in the SDLK_RETURN event in Turtleprog.c (line 259). Press the return key to execute these commands (Its empty by default). This way the user can draw what ever they want using the basic turtle commands provided.
