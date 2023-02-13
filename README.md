@@ -149,11 +149,11 @@ User can use the following buttons on the keyboard to change these parameters.
 - Background colour can be changed using the B key (Note this clears the screen with your currently selected colour and resets the turtle so ensure you set your Background colour before you begin drawing).
 
 3. there are a few menus in this program.
-    a. Save menu.
+    1. Save menu.
         - Option 1: Save as PNG
         - Option2: Save as JPG
         - Option3: Save as BMP
-    b. Example project menu
+    2. Example project menu
         i. Option 1: Spiro lateral 1
             - Draws the following Spiro lateral after the following settings have been provided.
             - Angle = 90
@@ -175,7 +175,7 @@ User can use the following buttons on the keyboard to change these parameters.
             - Angle = 72(cannot be changed)
             - No. of lines = 7
             - No. of loops = 4
-    c. Help Menu
+    3. Help Menu
     Image
         - Access the help menu by using the TAB key. This menu just displays some extra information about controls and reminds the user set drawing parameters before continuing.
 4. Execute commands.
