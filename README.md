@@ -98,24 +98,24 @@ Pictures of successful drawings
   src="images/drawing1.png"
   alt="drawing1"
   title="drawing1"
-  style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=48% height=48% />
 <img
   src="images/drawing2.png"
   alt="drawing2"
   title="drawing2"
-  style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=48% height=48% />
 </p>
 <p float="left">
 <img
   src="images/drawing3.png"
   alt="drawing3"
   title="drawing3"
-  style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=48% height=48% />
 <img
   src="images/drawing4.png"
   alt="drawing4"
   title="drawing4"
-  style="display: inline-block; margin: 0 auto; max-width: 100px" width=50% height=50% />
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=48% height=48% />
 </p>
 
 
