@@ -98,23 +98,26 @@ Pictures of successful drawings
   src="images/drawing1.png"
   alt="drawing1"
   title="drawing1"
-  style="display: inline-block; margin: 0 auto; max-width: 100px" width=30% height=30% />
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=40% height=40% />
 <img
   src="images/drawing2.png"
   alt="drawing2"
   title="drawing2"
-  style="display: inline-block; margin: 0 auto; max-width: 100px"width=30% height=30% />
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=40% height=40% />
 </p>
+<p float="left">
 <img
   src="images/drawing3.png"
   alt="drawing3"
   title="drawing3"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=40% height=40% />
 <img
   src="images/drawing4.png"
   alt="drawing4"
   title="drawing4"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px" width=40% height=40% />
+</p>
+
 
 ## References
 htmlcolorcodes.com. (2015-2020). HTML Color Names. Retrieved January 16, 2021, from
