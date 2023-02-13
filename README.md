@@ -103,7 +103,9 @@ Pictures of successful drawings
   src="images/drawing2.png"
   alt="drawing2"
   title="drawing2"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px"width=50% height=50%>
+</p>
+
 <img
   src="images/drawing3.png"
   alt="drawing3"
@@ -114,7 +116,7 @@ Pictures of successful drawings
   alt="drawing4"
   title="drawing4"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
-</p>
+
 ## References
 htmlcolorcodes.com. (2015-2020). HTML Color Names. Retrieved January 16, 2021, from
 https://htmlcolorcodes.com/color-names/
