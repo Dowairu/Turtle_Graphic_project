@@ -19,7 +19,6 @@ The structure and flow of my program is not very complicated. It has only one ma
 I thought about extracting my other functions, for loading images, loading the UI, menu control, value conversion etc into their own library as well but I did not think it was necessary in the end as the focus of the project is the turtle library.
 Below is a flowchart showing my program structure.
 
-flowchart image
 <img
   src="images/Program_flow.png"
   alt="Program Flow"
@@ -32,7 +31,11 @@ Before I got down to programming, I did a little bit of planning. I created a ro
 ## Initialising SDL and Turtle struct
 Based on my rough plan I stared with initializing SDL2, following the slides provided by Dr. Eike Anderson, I was able to initialize a window, renderer and main event loop which allowed me to open a window to manipulate.
 
-code image here
+<img
+  src="images/SDL_init.png"
+  alt="SDL_init"
+  title="SDL_init"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 After successfully creating a window I started working on the struct for my turtle, I worked on this first because it would be the basis for all my other functions and it would allow for easy manipulation of the turtles' parameters and values. I defined the following parameters for the turtle.
 - Starting x position
@@ -53,8 +56,11 @@ I started by reading through the sdl2 and sdl2_image API's on surfaces, rectangl
 
 With the rough layout of the UI in place I took my measurements started making the user interface in photoshop. I made the first Ul extremely simple because I wanted to complete the turtle functions and user input before finalising anything. I created an image loading function and called it within a Ul loading function, to get my Ul images on the screen as well as my drawing surfaces. After creating the image and Ul loading functions, an image saving function was created with relative ease making use of SDL_RenderRead Pixels(), the SDL_image library and some help from "TalesM" on stack overflow. (TalesM, 2014)
 
-Firt UI image here
-First Ul iteration
+<img
+  src="images/FirstTurtleUI.png"
+  alt="FirstTurtleUI"
+  title="FirstTurtleUI"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## The turtle functions.
 I started with the main draw function. I knew for this I would have to be able to draw lines in any direction using the angle and length of said line. This can be solved using some simple trigonometry. We have the angle, the length of the hypotenuse and the starting x and y values. To find x and y we can use their corresponding sides of the triangle, x
@@ -87,8 +93,26 @@ laterals. Using the documentation provided by lecturer Eike Anderson on Spiro la
 Although I am very happy with the results of this assignment, there is one bug that I was unable to figure out. My image saving function works fine but the colours in the images it saves are inconsistent with the colours seen on screen. Sometimes it will produce the correct colours and other times it will not. I do not know why this happens, but I suspect it has something to do with the surface and rectangle I am using to save my images and the way that colours have been implemented. 
 
 Pictures of successful drawings
-pictures below
-
+<img
+  src="images/drawing1.png"
+  alt="drawing1"
+  title="drawing1"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="images/drawing2.png"
+  alt="drawing2"
+  title="drawing2"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="images/drawing3.png"
+  alt="drawing3"
+  title="drawing3"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="images/drawing4.png"
+  alt="drawing4"
+  title="drawing4"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## References
 htmlcolorcodes.com. (2015-2020). HTML Color Names. Retrieved January 16, 2021, from
