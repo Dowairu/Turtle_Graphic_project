@@ -93,7 +93,7 @@ laterals. Using the documentation provided by lecturer Eike Anderson on Spiro la
 Although I am very happy with the results of this assignment, there is one bug that I was unable to figure out. My image saving function works fine but the colours in the images it saves are inconsistent with the colours seen on screen. Sometimes it will produce the correct colours and other times it will not. I do not know why this happens, but I suspect it has something to do with the surface and rectangle I am using to save my images and the way that colours have been implemented. 
 
 Pictures of successful drawings
-<p float="left">
+<p float="center">
 <img
   src="images/drawing1.png"
   alt="drawing1"
@@ -105,7 +105,7 @@ Pictures of successful drawings
   title="drawing2"
   style="display: inline-block; margin: 0 auto; max-width: 100px" width=45% height=45% />
 </p>
-<p float="left">
+<p float="center">
 <img
   src="images/drawing3.png"
   alt="drawing3"
